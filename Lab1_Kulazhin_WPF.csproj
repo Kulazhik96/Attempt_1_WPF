@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>.NETFramework4.7.2</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\ПроЖекты\c#\Lab1_Kulazhin_WPF\Lab1_Kulazhin_WPF.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

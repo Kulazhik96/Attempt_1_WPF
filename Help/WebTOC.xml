@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="8b7e51d6-d3a4-40bf-b63f-a94e5112b76a" Title="Lab1_Kulazhin_WPF" Url="html/600c5dec-fec2-f1b2-44c7-bfe3ec0f445f.htm">
+    <HelpTOCNode Id="97df9ab4-9493-4ed3-afea-7b7fe440fb16" Title="MainWindow Class" Url="html/2733f4e0-1e31-9176-ff19-2457c3cc72a0.htm">
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/4c13e304-80bb-5de5-f9cf-2215be8bc260.htm" />
+      <HelpTOCNode Id="72dc8114-a7de-4069-be2a-6e81ef4bf22d" Title="MainWindow Methods" Url="html/66a42be8-2c0b-3a4a-1482-3d9faa5325f3.htm">
+        <HelpTOCNode Title="Convert_Data Method " Url="html/a09baefd-7a5f-31c4-7047-736fbf344a11.htm" />
+        <HelpTOCNode Title="CoordinatesToConvert_Drop Method " Url="html/371c8453-3664-1792-d3ca-6600d5076b1d.htm" />
+        <HelpTOCNode Title="CoordinatesToConvert_PreviewDragOver Method " Url="html/081b3341-4e8f-7010-7cfa-7695d4b38024.htm" />
+        <HelpTOCNode Title="Download_Data Method " Url="html/21b847a2-8f58-c79b-6059-4e7726ae4e94.htm" />
+        <HelpTOCNode Title="GetConvertedCoordinates Method " Url="html/96345cd3-ba30-164e-cd8d-5cccf60f7099.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/676dc100-1ad2-37ca-3d9e-690b563d50c6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

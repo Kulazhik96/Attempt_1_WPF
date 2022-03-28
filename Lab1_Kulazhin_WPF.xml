@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab1_Kulazhin_WPF</name>
+    </assembly>
+    <members>
+        <member name="T:Lab1_Kulazhin_WPF.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Lab1_Kulazhin_WPF.MainWindow">
+            <summary>
+            Code-behind for Lab1_Kulazhik.WPF (Convert Wizzard) application
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.#ctor">
+            <summary>
+            This constructor is called only once, to combine code-behind with markup
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.Convert_Data(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            If this button was pressed, you'll see your coordinates
+            in output TextBox = "convertedText"
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.GetConvertedCoordinates(System.String)">
+            <summary>
+            Looks for matches with coordinate for (using Regex)
+            and transoforms it into desired format.
+            </summary>
+            <param name="buffer">String with input data</param>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.Download_Data(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            If this button is pressed, you'll get data in current directory
+            and see the message about it
+            </summary>
+            <exception cref="T:System.IO.IOException">Download_Data button may throw IOException
+            if it's smth wrong with your current directory
+            </exception>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.CoordinatesToConvert_Drop(System.Object,System.Windows.DragEventArgs)">
+            <summary>
+            Get data from dropped file and convert it
+            </summary>
+            <exception cref="T:System.IO.IOException">Drop_File event button may throw IOException
+            if it's smth wrong with directory, form which you drag your .txt file
+            </exception>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.CoordinatesToConvert_PreviewDragOver(System.Object,System.Windows.DragEventArgs)">
+            <summary>
+            I took this part from StackOverflow.com and
+            don't even know what is it doing,
+            but I'll definitely find out!
+            </summary>
+        </member>
+        <member name="M:Lab1_Kulazhin_WPF.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

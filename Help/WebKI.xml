@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Convert_Data method" Url="html/a09baefd-7a5f-31c4-7047-736fbf344a11.htm" />
+  <HelpKINode Title="CoordinatesToConvert_Drop method" Url="html/371c8453-3664-1792-d3ca-6600d5076b1d.htm" />
+  <HelpKINode Title="CoordinatesToConvert_PreviewDragOver method" Url="html/081b3341-4e8f-7010-7cfa-7695d4b38024.htm" />
+  <HelpKINode Title="Download_Data method" Url="html/21b847a2-8f58-c79b-6059-4e7726ae4e94.htm" />
+  <HelpKINode Title="GetConvertedCoordinates method" Url="html/96345cd3-ba30-164e-cd8d-5cccf60f7099.htm" />
+  <HelpKINode Title="InitializeComponent method" Url="html/676dc100-1ad2-37ca-3d9e-690b563d50c6.htm" />
+  <HelpKINode Title="Lab1_Kulazhin_WPF namespace" Url="html/600c5dec-fec2-f1b2-44c7-bfe3ec0f445f.htm" />
+  <HelpKINode Title="Lab1_Kulazhin_WPF.MainWindow class" Url="html/2733f4e0-1e31-9176-ff19-2457c3cc72a0.htm" />
+  <HelpKINode Title="MainWindow class">
+    <HelpKINode Title="MainWindow Class" Url="html/2733f4e0-1e31-9176-ff19-2457c3cc72a0.htm" />
+    <HelpKINode Title="constructor" Url="html/4c13e304-80bb-5de5-f9cf-2215be8bc260.htm" />
+    <HelpKINode Title="methods" Url="html/66a42be8-2c0b-3a4a-1482-3d9faa5325f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainWindow.Convert_Data method" Url="html/a09baefd-7a5f-31c4-7047-736fbf344a11.htm" />
+  <HelpKINode Title="MainWindow.CoordinatesToConvert_Drop method" Url="html/371c8453-3664-1792-d3ca-6600d5076b1d.htm" />
+  <HelpKINode Title="MainWindow.CoordinatesToConvert_PreviewDragOver method" Url="html/081b3341-4e8f-7010-7cfa-7695d4b38024.htm" />
+  <HelpKINode Title="MainWindow.Download_Data method" Url="html/21b847a2-8f58-c79b-6059-4e7726ae4e94.htm" />
+  <HelpKINode Title="MainWindow.GetConvertedCoordinates method" Url="html/96345cd3-ba30-164e-cd8d-5cccf60f7099.htm" />
+  <HelpKINode Title="MainWindow.InitializeComponent method" Url="html/676dc100-1ad2-37ca-3d9e-690b563d50c6.htm" />
+  <HelpKINode Title="MainWindow.MainWindow constructor" Url="html/4c13e304-80bb-5de5-f9cf-2215be8bc260.htm" />
+</HelpKI>
